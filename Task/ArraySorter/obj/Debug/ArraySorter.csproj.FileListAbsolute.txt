@@ -1,0 +1,7 @@
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\obj\Debug\ArraySorter.csproj.CoreCompileInputs.cache
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\bin\Debug\ArraySorter.exe.config
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\bin\Debug\ArraySorter.exe
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\bin\Debug\ArraySorter.pdb
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\obj\Debug\ArraySorter.exe
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\obj\Debug\ArraySorter.pdb
+C:\Users\Idealand.DESKTOP-7VQJOEG.000\source\repos\ArraySorter\ArraySorter\obj\Debug\ArraySorter.csprojAssemblyReference.cache
